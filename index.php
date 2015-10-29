@@ -11,7 +11,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "C1s9g6b8";
+$password = "secret";
 $dbname = "nested";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
