@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Tree</title>
-	<link rel="stylesheet" href="nested.css">
+	<link rel="stylesheet" href="/assets/nested.css">
 </head>
 <body>
 <h1>Nested Set Model (Binary Search Tree View)</h1>
